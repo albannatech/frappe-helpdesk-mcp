@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "frappe-helpdesk-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Customer support ticketing, SLA tracking, and resolution bots."
 readme = "README.md"
 requires-python = ">=3.10"
